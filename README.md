@@ -4,14 +4,14 @@
 AI/ML Engineer in Progress • Generative AI • RAG • NLP • Multi-Agent Systems
 </h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Dhruv197252">
     <img src="https://komarev.com/ghpvc/?username=Dhruv197252&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
   <a href="https://github.com/Dhruv197252?tab=followers">
     <img src="https://img.shields.io/github/followers/Dhruv197252?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
-</p>
+</p> -->
 
 ---
 
