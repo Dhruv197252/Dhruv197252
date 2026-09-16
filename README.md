@@ -1,270 +1,210 @@
-<h1 align="center">Hi 👋, I'm Dhruv Yadav</h1>
+<h1 align="center">Hi, I'm Dhruv Yadav</h1>
 
 <h3 align="center">
-AI/ML Engineer in Progress • Generative AI • RAG • NLP • Multi-Agent Systems
+CSE (AI & ML) | Machine Learning | Generative AI | RAG | Multi-Agent Systems
 </h3>
 
-<!-- <p align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruvyadav1974/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dhruvyadavtech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dhruvyadavtech%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://github.com/Dhruv197252">
-    <img src="https://komarev.com/ghpvc/?username=Dhruv197252&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/GitHub-Dhruv197252-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://github.com/Dhruv197252?tab=followers">
-    <img src="https://img.shields.io/github/followers/Dhruv197252?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-</p> -->
-
----
-
-## 👨‍💻 About Me
-
-🎓 **Final-year B.Tech CSE (AI & ML)** student at **Shri Ramdeobaba College of Engineering & Management, Nagpur**
-
-🤖 I enjoy building **AI-powered applications** and exploring how machine learning systems can solve real-world problems.
-
-My current focus is on:
-
-* 🧠 Machine Learning & Deep Learning
-* 💬 Natural Language Processing
-* ✨ Generative AI & Large Language Models
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🤖 AI Agents & Multi-Agent Systems
-* 🔗 LangChain & LangGraph
-* 🛠️ Tool Calling & Agentic AI
-* 👁️ Computer Vision
-* 🚀 AI Model Serving & Deployment
-
-I like taking ideas from **model → backend → application → deployment**, rather than keeping projects limited to notebooks.
-
-📫 **Email:** [dhruvyadavtech@gmail.com](mailto:dhruvyadavtech@gmail.com)
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📰 News Bias Analyzer
-
-NLP-powered application for analyzing news content and generating structured insights.
-
-**Tech:** Python • FastAPI • React • NLP • Transformers
-
-</td>
-
-<td width="50%">
-
-### 🔎 Semantic Search
-
-Semantic information retrieval using embeddings to find contextually relevant content.
-
-**Tech:** Python • NLP • Embeddings • Vector Search
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📝 Article Summarizer
-
-NLP-based application for automatically generating concise summaries from articles.
-
-**Tech:** Python • NLP • Transformers
-
-</td>
-
-<td width="50%">
-
-### 🚀 AI Model Serving
-
-Application focused on serving machine learning models through an API-based architecture.
-
-**Tech:** Python • APIs • Machine Learning • Deployment
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 Multi-Agent AI System
-
-Exploring multiple specialized AI agents collaborating through tools and workflows.
-
-**Tech:** LangChain • LangGraph • LLMs • Tool Calling
-
-</td>
-
-<td width="50%">
-
-### 🧬 Multimodal Federated Learning
-
-Privacy-preserving AI system combining medical images and clinical parameters.
-
-**Tech:** PyTorch • CNN • FedAvg • Differential Privacy
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 AI / ML
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-1C3C3C?style=for-the-badge"/>
-
 </p>
 
 ---
 
-## 🔗 GenAI & AI Engineering
+## About Me
 
-<p align="center">
+I am a **final-year B.Tech Computer Science & Engineering (AI & ML)** student at **Shri Ramdeobaba College of Engineering & Management, Nagpur**.
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-00A98F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge"/>
+I am interested in building practical AI systems and exploring the complete journey from **machine learning models to production-ready applications**.
 
-</p>
+My primary areas of interest include:
 
-**Areas:** RAG • Embeddings • Vector Databases • Prompt Engineering • Tool Calling • Agentic Workflows • Multi-Agent Systems
+* Machine Learning & Deep Learning
+* Natural Language Processing
+* Generative AI & Large Language Models
+* Retrieval-Augmented Generation (RAG)
+* AI Agents & Multi-Agent Systems
+* LangChain & LangGraph
+* Tool Calling & Agentic AI
+* Computer Vision
+* AI Model Serving & Deployment
 
----
-
-## 💻 Software Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,fastapi,react,javascript,nodejs,tailwind,docker" />
-</p>
-
-**Backend:** FastAPI • REST APIs • Spring Boot
-**Frontend:** React • JavaScript • Tailwind CSS
-**Deployment:** Docker • Hugging Face Spaces • Cloud Deployment
+I enjoy transforming AI concepts into working applications using **Python, modern AI frameworks, APIs, and backend technologies**.
 
 ---
 
-## 🗄️ Databases & Data
+## Featured Projects
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+### Multi-Agent AI System
 
-**Data:** NumPy • Pandas • Matplotlib • Seaborn • SciPy
+A multi-agent AI application exploring specialized agents, tool calling, agent coordination, and LLM-based workflows.
 
-**Vector Search:** FAISS • ChromaDB
+**Technologies:** Python · LangChain · LangGraph · LLMs · Tool Calling
 
 ---
 
-## 🧩 My AI Journey
+### News Bias Analyzer
+
+An NLP-based application for analyzing news content and generating structured insights through AI-powered analysis.
+
+**Technologies:** Python · FastAPI · React · NLP · Transformers · Hugging Face
+
+---
+
+### Semantic Search
+
+A semantic information retrieval system that uses embeddings to identify contextually relevant content rather than relying only on keyword matching.
+
+**Technologies:** Python · NLP · Sentence Transformers · Embeddings · Vector Search
+
+---
+
+### Multimodal Federated Learning
+
+A privacy-preserving machine learning pipeline combining medical images and clinical parameters across simulated hospital clients.
+
+**Technologies:** PyTorch · CNN · MLP · Federated Learning · FedAvg · Differential Privacy
+
+---
+
+### AI Model Serving
+
+A backend-focused project for serving machine learning models through APIs and exploring practical model deployment.
+
+**Technologies:** Python · FastAPI · Machine Learning · REST APIs
+
+---
+
+### Article Summarizer
+
+An NLP application designed to generate concise summaries from long-form articles.
+
+**Technologies:** Python · NLP · Transformers · Text Processing
+
+---
+
+## Technical Skills
+
+### Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+</p>
+
+### Machine Learning & Deep Learning
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
+</p>
+
+**Libraries:** NumPy · Pandas · Matplotlib · Seaborn · SciPy · Scikit-learn
+
+### Generative AI
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/RAG-F97316?style=flat-square" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LLMs-4F46E5?style=flat-square" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square" alt="AI Agents"/>
+</p>
+
+**Frameworks:** LangChain · LangGraph
+
+**Concepts:** RAG · Embeddings · Vector Search · Prompt Engineering · Tool Calling · Agentic Workflows · Multi-Agent Systems
+
+**Vector Databases:** FAISS · ChromaDB
+
+### Web & Backend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+</p>
+
+**Backend:** FastAPI · REST APIs · Spring Boot
+
+**Frontend:** React · JavaScript · Tailwind CSS
+
+**Deployment:** Docker · Hugging Face Spaces · Cloud Deployment
+
+### Databases
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+</p>
+
+**Databases:** MySQL · PostgreSQL · MongoDB · SQLite
+
+---
+
+## Current Focus
 
 ```text
 Machine Learning
-       │
-       ▼
+       ↓
 Deep Learning
-       │
-       ├──────────────► Computer Vision
-       │
-       ▼
-      NLP
-       │
-       ▼
-Generative AI
-       │
-       ▼
-      RAG
-       │
-       ▼
-   AI Agents
-       │
-       ▼
+       ↓
+NLP & Computer Vision
+       ↓
+Generative AI & LLMs
+       ↓
+Retrieval-Augmented Generation
+       ↓
+AI Agents & Tool Calling
+       ↓
 Multi-Agent Systems
-       │
-       ▼
+       ↓
 Production AI Applications
 ```
 
----
+Currently exploring:
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhruv197252&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv197252&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhruv197252&theme=tokyonight&hide_border=true"/>
-</p>
+* Advanced RAG architectures
+* Agentic AI and multi-agent workflows
+* LangGraph
+* LLM application development
+* Production AI APIs
+* MLOps and model deployment
+* Scalable AI systems
 
 ---
 
-## 🏆 GitHub Activity
+## Connect With Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhruv197252&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
-
----
-
-## 📈 Currently Learning
-
-```text
-✓ Machine Learning
-✓ Deep Learning
-✓ NLP
-✓ Generative AI
-✓ RAG
-✓ LangChain
-✓ LangGraph
-✓ AI Agents
-
-→ Advanced Agentic AI
-→ Production LLM Applications
-→ MLOps & AI Deployment
-→ Scalable AI Systems
-```
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/dhruvyadav1974/">
-<img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:dhruvyadavtech@gmail.com">
-<img src="https://img.shields.io/badge/Email-dhruvyadavtech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dhruv197252">
-<img src="https://img.shields.io/badge/GitHub-Dhruv197252-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<p>
+  <a href="https://www.linkedin.com/in/dhruvyadav1974/">
+    LinkedIn
+  </a>
+  &nbsp;·&nbsp;
+  <a href="mailto:dhruvyadavtech@gmail.com">
+    Email
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Dhruv197252">
+    GitHub
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<b>Building intelligent systems at the intersection of AI, software and real-world problems. 🚀</b>
+  <b>Building practical AI systems at the intersection of machine learning and software engineering.</b>
 </p>
